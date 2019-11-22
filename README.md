@@ -1,7 +1,7 @@
 # LUNA16Tutorial
-
+## All credit to LUNA16 Challenge, this repo is merely to help people who are using PyCharm and are new to coding.
 https://luna16.grand-challenge.org/
-Code that works for the LUNA16 challenge tutorial, in PyCharm
+Code that works for the LUNA16 challenge tutorial, in PyCharm. I made some fixes to the original code so it would work.
 According to LUNA16,
 "The purpose of this tutorial is to show to users how to:
 Open a .mhd image
