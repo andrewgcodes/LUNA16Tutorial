@@ -16,3 +16,6 @@ Direct link to tutorial: https://luna16.grand-challenge.org/Tutorial/
 To use the code, replace the file locations with the location to the data and patches on your computer. Everything else should be the same if you are using PyCharm Professional.
 
 Note that in the tutorial, it recommends to use %matplotlib inline but that is not necessary in PyCharm, the images will display in the right pane. 
+
+andrewgao.tech
+https://www.kaggle.com/andrewgao
